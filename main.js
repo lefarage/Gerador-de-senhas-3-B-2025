@@ -15,7 +15,7 @@ function diminuiTamanho() {
     numeroSenha.textContent = tamanhoSenha;
 }
 function aumentaTamanho() {
-    if (tamanhoSenha < 10) {
+    if (tamanhoSenha < 15) {
         // tamanhoSenha = tamanhoSenha+1;
         tamanhoSenha++;
     }
